@@ -7,7 +7,9 @@ Your task:
      - Where you make trade offs, comment & explain.
      - Assume this code is in production and backwards compatiblity must be maintained. Therefore if you decide to change the public interface, 
        please deprecate the existing methods. Feel free to evolve the code in other ways though.   
-	 - Make sure that the code can be built using the included build.bat. Please don't change the .csproj filenames - it will break our automated build.
+     - Make sure that the code can be built using the included build.bat (make sure you're opening a visual studio command prompt / have msbuild on the path). 
+     - Please don't change the .csproj filenames - it will break our automated build.
+     - You'll noticed there are some other files in the solution that aren't relevant (v2.IMailShot, AddressRecord), ignore those for now.
 
 	   
 Visual Studio 2012 Solution file: .\src\Exercise.sln

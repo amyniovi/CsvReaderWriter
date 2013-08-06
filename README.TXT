@@ -7,9 +7,12 @@ Your task:
      - Where you make trade offs, comment & explain.
      - Assume this code is in production and backwards compatiblity must be maintained. Therefore if you decide to change the public interface, 
        please deprecate the existing methods. Feel free to evolve the code in other ways though.   
-     - Make sure that the code can be built using the included build.bat (make sure you're opening a visual studio command prompt / have msbuild on the path). 
+     - Make sure that the code can be built using the included build.bat. It depends on msbuild/csc being on the path so make sure you're opening a visual studio command prompt or have it on the path. 
      - Please don't change the .csproj filenames - it will break our automated build.
-     - You'll noticed there are some other files in the solution that aren't relevant (v2.IMailShot, AddressRecord), ignore those for now.
+     - You can add projects and binaries as you see fit as long as everything will build on our systems without manual intervention. We'll kick off the build through build.bat
+     - Stick to .NET 4.0 and a VS2012 based solution.
+     - You'll notice there are some other files in the solution that aren't relevant (v2.IMailShot, AddressRecord), ignore those for now. They'll come into play at a later stage in the interview process.
+     - If you need a copy of visual studio a variety of options are at: http://www.microsoft.com/visualstudio/eng/downloads 
 
 	   
 Visual Studio 2012 Solution file: .\src\Exercise.sln

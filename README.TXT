@@ -19,7 +19,7 @@ Your task:
      - Please don't change the .csproj filenames - it will break our automated build.
      - You can add projects and binaries as you see fit as long as everything will build on our systems  
        without manual intervention. We'll kick off the build through build.bat
-     - Stick to .NET 4.0 and a VS2012 based solution.
+     - Stick to .NET 4.5 and a VS2015 based solution.
      - You'll notice there are some other files in the solution that aren't relevant (v2.IMailShot, 
        AddressRecord) - ignore those for now. They'll come into play at a later stage in the interview process.
      - If you need a copy of visual studio a variety of options are at: http://www.visualstudio.com/downloads/

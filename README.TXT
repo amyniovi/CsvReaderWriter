@@ -8,7 +8,8 @@ Your task:
      - Identify and annotate the shortcomings in the current implementation as if you were doing a code 
        review, using comments in the CSVReaderWriterForAnnotation.cs file.
      - Refactor the CSVReaderWriter implementation into clean, elegant, rock-solid & well performing 
-       code, without over-engineering. 
+       code, without over-engineering. You are not required to update the AddressFileProcessor 
+       as part of this task.
      - Where you make trade offs, comment & explain why.
      - Assume this code is in production and backwards compatiblity must be maintained. Therefore if you 
        decide to change the public interface, please deprecate the existing methods. Feel free to evolve 

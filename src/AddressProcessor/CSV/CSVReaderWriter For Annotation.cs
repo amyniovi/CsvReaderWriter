@@ -3,6 +3,16 @@ using System.IO;
 
 namespace AddressProcessing.CSV
 {
+    /*
+        1) List three to five key concerns with this implementation that you would discuss with the junior developer. 
+
+        Please leave the rest of this file as it is so we can discuss your concerns during the next stage of the interview process.
+        
+        *)
+        *)
+        *)
+    */
+
     public class CSVReaderWriterForAnnotation
     {
         private StreamReader _readerStream = null;

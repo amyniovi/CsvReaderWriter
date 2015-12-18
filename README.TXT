@@ -2,7 +2,7 @@ Summary
 -------
 
 Please complete the two coding exercise steps; a brief code review and then a
-refactor of a single class.
+refactor of a class.
 
 We do not expect you to spend more than two to three hours on this exercise.
 

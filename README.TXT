@@ -24,8 +24,8 @@ Your task:
    2) Refactor the CSVReaderWriter.cs file implementation into clean, elegant, 
    rock-solid & well performing code, without over-engineering. You are not
    required to update the AddressFileProcessor as part of this task.
-   Assume this code is in production and backwards compatibility must be
-   maintained.
+   Assume this code is a small part of a larger production system and 
+   backwards compatibility of the CSVReaderWriter must be maintained.
 
   - Where you make trade offs, comment & explain why. 
   - You'll notice there are some other files in the solution that aren't

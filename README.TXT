@@ -28,9 +28,9 @@ Your task:
    backwards compatibility of the CSVReaderWriter must be maintained.
 
   - Where you make trade offs, comment & explain why. 
-  - You'll notice there are some other files in the solution that aren't
-  relevant. These will come into play in the next stage in the interview
-  process and can be ignored for now.
+  - You'll notice there are some other files in the AddressProcessing project
+  that aren't relevant. These will come into play in the next stage in the 
+  interview process and can be ignored for now.
   - You may introduce nuget based references.
   - Git is integral to our process but we understand that not everyone has
   previous experience with the tool. If you're not yet familiar with Git we
